@@ -1,0 +1,9 @@
+MarkShust_Ajaxglobalmessages
+----------------------------
+CHANGELOG
+----------------------------
+1.0.0 (Released MAY-17-2012)
+- Initial release
+
+1.1.0 (Released MAY-29-2012)
+- Add support for Magento EE
