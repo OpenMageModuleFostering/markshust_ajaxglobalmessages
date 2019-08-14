@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>Markshust_Ajaxglobalmessages</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license uri="http://sam.zoy.org/wtfpl/">WTFPL</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>This extension makes the global messages appear as an ajax bar at the top of your website.</summary>
+    <description>This extension makes the global messages appear as an ajax bar at the top of your website. This allows for non-intrusive messaging that does not interfere with the design/wireframes of your Magento site.</description>
+    <notes>Initial release</notes>
+    <authors><author><name>Mark Shust</name><user>markoshust</user><email>mark@shust.com</email></author></authors>
+    <date>2012-05-17</date>
+    <time>14:50:25</time>
+    <contents><target name="magecommunity"><dir name="Markshust"><dir name="Ajaxglobalmessages"><dir name="etc"><file name="config.xml" hash="f066116c2fcec7f535a4f1ebf70dda58"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Markshust_Ajaxglobalmessages.xml" hash="82e113f1bae4f591dbbf88ea5acd13b6"/></dir></target><target name="mageskin"><dir name="frontend"><dir name="base"><dir name="default"><dir name="css"><dir name="markshust"><file name="ajaxglobalmessages.css" hash="2270516f2c2d6c4fcb4030281851d33a"/></dir></dir></dir></dir></dir></target><target name="magedesign"><dir name="frontend"><dir name="base"><dir name="default"><dir name="layout"><dir name="markshust"><file name="ajaxglobalmessages.xml" hash="0d7d908ab74770a4a397def6a860f147"/></dir></dir><dir name="template"><dir name="markshust"><file name="ajaxglobalmessages.phtml" hash="1dbd9a111bf1c748ae93521e5fbf50bd"/></dir></dir></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.2.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
