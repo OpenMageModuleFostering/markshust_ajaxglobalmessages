@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Markshust_Ajaxglobalmessages",
+    "name": "OpenMageModuleFostering\/Markshust_Ajaxglobalmessages",
     "type": "magento-module",
     "license": "WTFPL",
     "homepage": "",
     "description": "This extension makes the global messages appear as an ajax bar at the top of your website.",
     "authors": [
-    {
-        "name": "Mark Shust",
-        "email": "mark@shust.com"
-    }
-],
+        {
+            "name": "Mark Shust",
+            "email": "mark@shust.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
