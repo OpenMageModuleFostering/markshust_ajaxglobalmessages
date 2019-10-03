@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 This extension makes the global messages appear as an ajax bar at the top of your website.
